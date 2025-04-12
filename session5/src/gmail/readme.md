@@ -26,7 +26,7 @@ This application provides a conversational interface to access and manage your G
 
 ### 4. Run the Application
 
-1. Start the application with `python src/gmail/app.py`
+1. Start the application with `python src/gmail/email_assistant_app.py`
 2. On first run, you'll be prompted to authorize the application in your browser
 3. Log in with your Google account and grant the required permissions
 4. The token will be saved to a file called `token.json` for future use
